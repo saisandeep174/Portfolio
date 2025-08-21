@@ -1,0 +1,39 @@
+.certifications-section {
+  padding: 50px;
+  text-align: center;
+  
+}
+
+.certifications-title {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  color:white;
+}
+
+.cert-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.cert-image {
+  max-width: 80%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 15px;
+}
+
+.cert-name {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+
+.cert-issuer {
+  font-size: 0.95rem;
+  color: #6b7280;
+}
